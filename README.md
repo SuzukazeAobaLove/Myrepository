@@ -1,2 +1,2 @@
 # Myrepository
-##借助SFML库的劣质DBG
+## 借助SFML库的劣质DBG
